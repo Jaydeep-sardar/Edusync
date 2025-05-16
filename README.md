@@ -2,6 +2,10 @@
 
 EduSync is a comprehensive learning management application built with Next.js, TypeScript, and Tailwind CSS. It provides an integrated suite of educational tools to enhance your learning journey.
 
+## 🚀 Deployment
+
+[![Deploy with Vercel](https://vercel.com/button)](https://edusync-ashy.vercel.app/)
+
 ## ✨ Features
 
 - 📊 **Interactive Dashboard** - Track your learning progress with comprehensive analytics
